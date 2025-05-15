@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 public class magic8Ball
 {
@@ -9,8 +10,10 @@ public class magic8Ball
             "Do or not do.",
             "I am your father",
             "It's a trap!",
-            "Laugh it up, fuzzball",
-
+            "Laugh it up, fuzzball!",
+            "I find your lack of faith disturbing.",
+            "These aren’t the droids you’re looking for.",
+            "Chewie, we’re home.",
 
 
         };
